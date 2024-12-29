@@ -25,4 +25,6 @@
 ## 博客
 1. [gitbook](https://kennethfan.gitbook.io/notes/)
 2. [blog](https://kennethfan.github.io/)
-3. ![微信公众号](img.png)
+3. 微信公众号
+
+![微信公众号](qrcode_weixin_oa.jpg)
