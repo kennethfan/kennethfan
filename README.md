@@ -27,3 +27,6 @@
 2. 微信公众号
 
 ![微信公众号](qrcode_weixin_oa.jpg)
+
+## 统计
+[![my GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethfan)](https://github.com/anuraghazra/github-readme-stats)
