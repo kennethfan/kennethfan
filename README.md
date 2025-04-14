@@ -29,4 +29,6 @@
 ![微信公众号](qrcode_weixin_oa.jpg)
 
 ## 统计
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethfan&show_icons=true)
+![my GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethfan&show_icons=true&theme=dark)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethfan)]
