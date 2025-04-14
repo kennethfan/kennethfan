@@ -31,4 +31,4 @@
 ## 统计
 ![my GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethfan&show_icons=true&theme=dark)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethfan)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethfan&layout=compact)
