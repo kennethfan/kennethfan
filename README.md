@@ -6,6 +6,7 @@
 3. python
 4. Go
 5. TypesScript
+6. Vue3
 
 ## 涉猎领域
 1. web服务端
@@ -15,12 +16,14 @@
 5. 电商/团购
 6. SAAS/ERP
 7. 爬虫
+8. web前端
+9. RPA
 
 ## 兴趣
 1. 分布式
 2. 数据库
 3. 区块链
-4. 机器学习
+4. 机器学习/人工智能
 
 ## 博客
 1. [blog](https://kennethfan.github.io/)
