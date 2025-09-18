@@ -28,10 +28,4 @@
 ## 博客
 1. [blog](https://kennethfan.github.io/)
 2. 微信公众号
-
 ![微信公众号](qrcode_weixin_oa.jpg)
-
-## 统计
-![my GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethfan&show_icons=true&theme=onedark&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethfan&count_private=true)
