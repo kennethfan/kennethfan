@@ -6,7 +6,7 @@
 3. python
 4. Go
 5. TypesScript
-6. Vue3
+6. Vue3/React
 
 ## 涉猎领域
 1. web服务端
@@ -14,7 +14,7 @@
 3. IM/推送
 4. 微信私域
 5. 电商/团购
-6. SAAS/ERP
+6. SaaS/ERP
 7. 爬虫
 8. web前端
 9. RPA
