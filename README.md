@@ -5,8 +5,9 @@
 2. php
 3. python
 4. Go
-5. TypesScript
-6. Vue3/React
+5. Rust
+6. TypesScript
+7. Vue3/React
 
 ## 涉猎领域
 1. web服务端
